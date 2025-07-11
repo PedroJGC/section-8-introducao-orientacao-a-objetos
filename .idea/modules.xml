@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/01-Metodos/01-Metodos.iml" filepath="$PROJECT_DIR$/01-Metodos/01-Metodos.iml" />
       <module fileurl="file://$PROJECT_DIR$/section-8-introducao-orientacao-a-objetos.iml" filepath="$PROJECT_DIR$/section-8-introducao-orientacao-a-objetos.iml" />
     </modules>
   </component>
